@@ -1,2 +1,2 @@
 # Win-Install-IIS-with-Powershell
- Install IIS, adds AV exclusions and adds a runonce for processing asfter the next restart.
+ Install IIS, adds some basic AV exclusions and adds a runonce for processing after the next restart.
